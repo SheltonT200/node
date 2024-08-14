@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node -r ts-node/register index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.27",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
